@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "face-detection-retinaface-apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppliedRecognition/Face-Detection-RetinaFace-Apple.git",
+      "state" : {
+        "revision" : "5daf9664f60f10910667b948d1507b585514d8b3",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "ver-id-common-types-apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppliedRecognition/Ver-ID-Common-Types-Apple.git",
+      "state" : {
+        "revision" : "15e5c9cbc2a8fbe20ad4942cc9cf2623cfca30fb",
+        "version" : "3.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
